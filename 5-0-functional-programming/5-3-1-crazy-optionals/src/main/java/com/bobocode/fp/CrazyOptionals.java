@@ -98,6 +98,8 @@ public class CrazyOptionals {
     /**
      * Retrieves a {@link BigDecimal} balance using null-safe mappings.
      *
+     *
+     * *
      * @param accountProvider
      * @return optional balance
      */
